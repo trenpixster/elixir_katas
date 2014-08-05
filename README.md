@@ -1,7 +1,15 @@
-#Katas
+#Elixir Katas
+
+I'll be collecting some interesting Katas that I find around the web and 
+compile them into this repository in order to fast forward you to the
+coding on Elixir itself.
+
+If you're having trouble or don't feel like installing the whole Elixir
+shizzle in your harddrive feel free to use my [docker image](https://registry.hub.docker.com/u/trenpixster/elixir/) to give it a spin.
 
 ## But why?
-I think it's a great way to dive into a new programming language.
+I think it's a great way to dive into a new programming language. And
+since "sharing is caring", here it is for you!
 
 ## How?
 In each directory there is a test file which will check if your Kata executes correctly.

@@ -1,5 +1,5 @@
-Kata
-====
+Kata 1
+======
 
 Return “fizz”, “buzz” or “fizzbuzz”.
 

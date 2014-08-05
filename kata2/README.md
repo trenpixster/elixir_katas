@@ -1,5 +1,5 @@
-Kata
-====
+Kata 2
+======
 
 #Specification
 
